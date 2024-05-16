@@ -60,7 +60,7 @@
 
 ## Output:
 ![Screenshot 2024-05-16 211232](https://github.com/Sarishatheiveegan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979465/0d95d506-185e-49b2-a85d-910ab4581993)
-![Screenshot 2024-05-16 211232](https://github.com/Sarishatheiveegan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979465/0d95d506-185e-49b2-a85d-910ab4581993)
+
 
 ### Name: MARINO SARISHA T
 ### Register Number:212223240084
